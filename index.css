@@ -12,7 +12,6 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 .main-container {
-    width: 700px;
     margin: 0 auto;
     position: relative;
 }
